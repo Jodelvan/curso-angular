@@ -1,0 +1,8 @@
+footer{
+    background-color: purple;
+    color: #fff;
+}
+
+footer li a{
+    color: #fff!important;
+}
